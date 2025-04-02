@@ -35,7 +35,7 @@
 
     <div class="message">
         <p>(>ᴗ<) 💕</p>
-        <p>Dear [Name],</p>
+        <p>Dear brinal,</p>
         <p>I'm really sorry! 😢</p>
         <p>Please forgive me? 🥺💖</p>
         <button class="yes" onclick="forgiveMe()">Yes, I forgive you!</button>
